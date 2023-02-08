@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freyre1927
 - 👀 I’m interested in Backend and Hacking 
-- 🌱 I’m currently learning Backend with Spring Boot, i am a begginer coder
+- 🌱 I’m a Backend Jr. with Java - Spring Boot.
 - 💞️ I’m looking to collaborate on Java Proyects
 - 📫 How to reach me @Roche1927
 
